@@ -10167,3 +10167,19 @@ header.masthead h1 {
 /* .btn-floating {
   height: 3rem;
 } */
+
+.z-depth-1:hover {
+  opacity: 0.5;
+  background-color:rgba(255,0,0,0.3);
+	transform: translateY(-0.6%);
+  box-shadow: 0 4rem 12rem white;
+  
+}
+
+.svg-inline--fa:hover {
+  opacity: 0.5;
+  transform: translateY(-0.9%);
+ 
+ 
+}
+
