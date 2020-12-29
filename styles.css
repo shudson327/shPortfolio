@@ -10087,12 +10087,12 @@ header.masthead h1 {
     font-size: 1.15rem;
   }
   header.masthead h1 {
-    font-size: 3rem;
+    font-size: 1.5rem;
   }
 }
 @media (min-width: 1200px) {
   header.masthead h1 {
-    font-size: 3.5rem;
+    font-size: 2rem;
   }
 }
 
@@ -10161,13 +10161,6 @@ header.masthead h1 {
   background-color: #343A40;
 }
 
-
-/* #525252 */
-
-/* .btn-floating {
-  height: 3rem;
-} */
-
 .z-depth-1:hover {
   opacity: 0.5;
   background-color:rgba(255,0,0,0.3);
@@ -10180,8 +10173,9 @@ header.masthead h1 {
   opacity: 0.5;
   transform: translateY(-0.9%);
  
- 
 }
 
- 
+#top-pic {
+  border-radius: 50%;
+}
     
