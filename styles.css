@@ -10169,6 +10169,14 @@ header.masthead h1 {
   
 }
 
+.text {
+  background-color: #D3D3D3;
+  color: black;
+  font-size: 16px;
+  padding: 16px 32px;
+  text-align: center;
+}
+
 .svg-inline--fa:hover {
   opacity: 0.5;
   transform: translateY(-0.9%);
